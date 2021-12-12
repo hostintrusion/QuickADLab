@@ -14,10 +14,11 @@ Not designed for scale or production environments
 No event forwarding is configured
 
 ## Credits
-Vuln
-Audit
-Sysmon
-Olaf
+- Vulnerable AD - WazeHell [https://github.com/WazeHell/vulnerable-AD]
+- Audit - Jeff Starke [https://github.com/Starke427/Windows-Security-Policy]
+- Sysmon - MS SysInternals [https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon]
+- Olaf Hartong - Sysmon Modular [https://github.com/olafhartong/sysmon-modular]
+- Disable Defender - [https://bidouillesecurity.com/disable-windows-defender-in-powershell]
 
 ## Getting Started
 - Download ISOs from MS Evaluation Centre - https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
