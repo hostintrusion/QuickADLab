@@ -46,6 +46,10 @@ PowerShell.exe -ExecutionPolicy Bypass -File .\QuickLab.ps1
 - Enter C to configure the workstation IPv4. Then enter J to join the workstation to the domain
 - Continue with disabling defender, applying PS logging, sysmon deployment and AD audit logging
 
+## What Next?
+- Add a Kali VM as an attacker
+- Add Elastic/Splunk indexer to collect and query sysmon/winevts
+
 ## To Do
 - Incorporate further vulnerabilities
 - - SMB write, credential overlap
